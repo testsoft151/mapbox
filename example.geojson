@@ -1,17 +1,18 @@
 {
                         "type": "FeatureCollection",
                         "features": [
-                            {"type": "Feature",
+                            {
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.991510, -37.787890], "type": "Point"},
                                 "properties":
                                         {
                                             "title": "New Test",
                                             "description": "<a class='leaflet-popup-close-button' href='#close'>×</a><p class='title'>CAVALLINI</p><p class='choosing-text'>When only genuine pastries will do.</p> <p class='choosing-text'>-37.787890, 144.991510</p> <p class='choosing-text'> 25 KMS-->Kongo HQ</p>",
                                             "icon": {
                                                 "iconUrl": "http://new.anasource.com/team9/mapbox/world.png",
-                                                "iconSize": [50, 50] // size of the icon
+                                                "iconSize": [50, 50]
                                             }
-                                        },
-                                "geometry": {"coordinates": [144.991510, -37.787890], "type": "Point"},
-                            },
+                                        }
+                            }
                 ]
 }
