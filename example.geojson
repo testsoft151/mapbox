@@ -7,7 +7,7 @@
                                 "properties":
                                         {
                                             "title": "New Test",
-                                            "description": " <a class='leaflet-popup-close-button' href='#close'>×</a><p class='title'>test</p><p class='choosing-text'>go only hahah pastries will do.</p> <p class='choosing-text'>-37.787890, 144.991510</p> <p class='choosing-text  distance' data-lat='-37.787890' data-lng='144.991510' >  KMS-->new HQ</p>",
+                                            "description": "<a class='leaflet-popup-close-button' href='#close'>×</a><p class='title'>test</p><p class='choosing-text'>go only hahah pastries will do.</p> <p class='choosing-text'>-37.787890, 144.991510</p> <p class='choosing-text distance' data-lat='-37.787890'  data-lng='144.991510'>  KMS-->new HQ</p>",
                                             "icon": {
                                                 "iconUrl": "http://new.anasource.com/team9/mapbox/world.png",
                                                 "iconSize": [50, 50]
