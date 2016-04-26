@@ -10,7 +10,7 @@
                                             "name" : "Magic Hand Car Wash",
                                             "text" : "choosing a car wash is like hiring a babysitter",
                                             "distance" : "",
-                                            "location" : "144.991510, -37.787890",
+                                            "location" : "-37.787890,144.991510",
                                             "icon": {
                                                 "iconUrl": "map_pin.svg",
                                                 "iconSize": [50, 50]
