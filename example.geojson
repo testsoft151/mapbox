@@ -9,7 +9,7 @@
                                             "title": "New Test",
                                             
                                             "icon": {
-                                                "iconUrl": "world.png",
+                                                "iconUrl": "map_pin.svg",
                                                 "iconSize": [50, 50]
                                             }
                                         }
