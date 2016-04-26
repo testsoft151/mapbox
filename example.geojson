@@ -16,54 +16,6 @@
                                                 "iconSize": [50, 50]
                                             }
                                         }
-                            },
-							{
-                              "type": "Feature",
-                               "geometry": {"coordinates": [-37.804464, 144.991802], "type": "Point"},
-                                "properties":
-                                        {
-                                            "header": "KONGO'S FAVOURITE CAR WASH",
-                                            "name" : "MAGIC HAND CARWASH",
-                                            "text" : "Choosing a carwash is like hiring a babysitter.",
-                                            "distance" : "",
-                                            "location" : "-37.804464, 144.991802",
-                                            "icon": {
-                                                "iconUrl": "map_pin.svg",
-                                                "iconSize": [50, 50]
-                                            }
-                                        }
-                            },
-							{
-                              "type": "Feature",
-                               "geometry": {"coordinates": [-37.798915, 144.978442], "type": "Point"},
-                                "properties":
-                                        {
-                                            "header": "KONGO'S COFFEE VENDOR",
-                                            "name" : "STAGGER LEE'S CAFE",
-                                            "text" : "We can smell the coffee from our office.",
-                                            "distance" : "",
-                                            "location" : "-37.798915, 144.978442",
-                                            "icon": {
-                                                "iconUrl": "map_pin.svg",
-                                                "iconSize": [50, 50]
-                                            }
-                                        }
-                            },
-							{
-                              "type": "Feature",
-                               "geometry": {"coordinates": [-37.801178, 144.978372], "type": "Point"},
-                                "properties":
-                                        {
-                                            "header": "BUDO IS LIFE",
-                                            "name" : "MELBOURNE BUDO ACADEMY",
-                                            "text" : "Post work wrist locks and submissions",
-                                            "distance" : "",
-                                            "location" : "-37.801178, 144.978372",
-                                            "icon": {
-                                                "iconUrl": "map_pin.svg",
-                                                "iconSize": [50, 50]
-                                            }
-                                        }
                             }
                 ]
 }
