@@ -3,14 +3,14 @@
                         "features": [
                             {
                               "type": "Feature",
-                               "geometry": {"coordinates": [-37.787890, 144.991510], "type": "Point"},
+                               "geometry": {"coordinates": [144.991510, -37.787890], "type": "Point"},
                                 "properties":
                                         {
-                                            "header": "MELBOURNE'S BEST PASTRIES",
-                                            "name" : "CAVALLINI",
-                                            "text" : "When only genuine pastries will do.",
+                                            "header": "Some header will come here",
+                                            "name" : "Magic Hand Car Wash",
+                                            "text" : "choosing a car wash is like hiring a babysitter",
                                             "distance" : "",
-                                            "location" : "-37.787890, 144.991510",
+                                            "location" : "144.991510, -37.787890",
                                             "icon": {
                                                 "iconUrl": "map_pin.svg",
                                                 "iconSize": [50, 50]
