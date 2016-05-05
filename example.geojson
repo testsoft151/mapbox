@@ -12,7 +12,7 @@
                                             "distance" : "",
                                             "location" : "-37.787890, 144.991510",
                                             "icon": {
-                                                
+						"iconUrl": "map_pin.svg",
                                                 "iconSize": [25, 25]
                                             }
                                         }
@@ -28,7 +28,7 @@
                                             "distance" : "",
                                             "location" : "-37.804464, 144.991802",
                                             "icon": {
-                                                
+						"iconUrl": "map_pin.svg",                                                
                                                 "iconSize": [25, 25]
                                             }
                                         }
@@ -44,7 +44,7 @@
                                             "distance" : "",
                                             "location" : "-37.798915, 144.978442",
                                             "icon": {
-                                                
+						"iconUrl": "map_pin.svg",                                                
                                                 "iconSize": [25, 25]
                                             }
                                         }
