@@ -12,11 +12,250 @@
                                             "distance" : "",
                                             "location" : "-37.787890, 144.991510",
                                             "icon": {
-						"iconUrl": "map_pin.svg"
+												"iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.991802, -37.804464], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "KONGO'S FAVOURITE CAR WASH",
+                                            "name" : "MAGIC HAND CARWASH",
+                                            "text" : "Choosing a carwash is like hiring a babysitter.",
+                                            "distance" : "",
+                                            "location" : "-37.804464, 144.991802",
+                                            "icon": {
+												"iconUrl": "map_pin.svg",                                                
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.978442, -37.798915], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "KONGO'S COFFEE VENDOR",
+                                            "name" : "STAGGER LEE'S CAFE",
+                                            "text" : "We can smell the coffee from our office.",
+                                            "distance" : "",
+                                            "location" : "-37.798915, 144.978442",
+                                            "icon": {
+												"iconUrl": "map_pin.svg",                                                
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.978372, -37.801178], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "BUDO IS LIFE",
+                                            "name" : "MELBOURNE BUDO ACADEMY",
+                                            "text" : "Post work wrist locks and submissions",
+                                            "distance" : "",
+                                            "location" : "-37.801178, 144.978372",
+                                            "icon": {
+												"iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.965258, -37.812031], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "KONGO'S 36TH CHAMBER",
+                                            "name" : "WING CHUN BING FA KUNG FU",
+                                            "text" : "The only dummies we tolerate are wooden.",
+                                            "distance" : "",
+                                            "location" : "-37.812031, 144.965258",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.986439, -37.797255], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "A LITTLE PIECE OF JAPAN",
+                                            "name" : "CIBI",
+                                            "text" : "You put water into the teapot, it becomes the teapot.",
+                                            "distance" : "",
+                                            "location" : "-37.797255, 144.986439",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.963515, -37.815491], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "SENSORY OVERLOAD",
+                                            "name" : "MINOTAUR",
+                                            "text" : "We are all nerds at heart.",
+                                            "distance" : "",
+                                            "location" : "-37.815491, 144.963515",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.997741, -37.828126], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "WE SAY GO RAW",
+                                            "name" : "PANA CHOCOLATE",
+                                            "text" : "Not everything delicious is bad for you.",
+                                            "distance" : "",
+                                            "location" : "-37.828126, 144.997741",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.961436, -37.812286], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "ITCHY FEET THERAPISTS",
+                                            "name" : "INTREPID TRAVEL",
+                                            "text" : "When it's time to spread our wings.",
+                                            "distance" : "",
+                                            "location" : "-37.812286, 144.961436",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.983588, -37.798311], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "ADVENTURE TRAVEL MAGAZINE",
+                                            "name" : "GET LOST",
+                                            "text" : "The best adventure in print.",
+                                            "distance" : "",
+                                            "location" : "-37.798311, 144.983588",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.958284, -37.829613], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "FRIENDS SOUTH OF THE RIVER",
+                                            "name" : "TEMPO HOLIDAYS",
+                                            "text" : "Customise your hard-earned holiday.",
+                                            "distance" : "",
+                                            "location" : "-37.829613, 144.958284",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.985622, -37.805092], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "OUR FAVOURITE WINDOW SEAT",
+                                            "name" : "AKA SIRO",
+                                            "text" : "Home-made lemonade and karaage.",
+                                            "distance" : "",
+                                            "location" : "-37.805092, 144.985622",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.983735, -37.800562], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "KANSHA SHIMASU",
+                                            "name" : "HINOKI",
+                                            "text" : "The way of the blade and fresh tuna.",
+                                            "distance" : "",
+                                            "location" : "-37.800562, 144.983735",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.961540, -37.813553], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "GEAR JUNKIES PARADISE",
+                                            "name" : "BOGONG EQUIPMENT",
+                                            "text" : "For admiring the design genius behind the MSR pocket rocket.",
+                                            "distance" : "",
+                                            "location" : "-37.813553, 144.961540",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [144.960780, -37.783765], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "BOUND BY BLUE",
+                                            "name" : "CARLTON FOOTBALL CLUB",
+                                            "text" : "One of Melbourne's sacred landmarks.",
+                                            "distance" : "",
+                                            "location" : "-37.783765, 144.960780",
+                                            "icon": {
+                                                "iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
+                                            }
+                                        }
+                            },
+							{
+                              "type": "Feature",
+                               "geometry": {"coordinates": [145.005015, -37.810865], "type": "Point"},
+                                "properties":
+                                        {
+                                            "header": "BRAZILIAN JIU JITSU",
+                                            "name" : "DOMINANCE MMA",
+                                            "text" : "Helping us overcome personal space issues.",
+                                            "distance" : "",
+                                            "location" : "-37.810865, 145.005015",
+                                            "icon": {
+												"iconUrl": "map_pin.svg",
+                                                "iconSize": [25, 25]
                                             }
                                         }
                             }
-							
-
                 ]
 }
